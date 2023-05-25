@@ -1,13 +1,11 @@
 # Lab-Practice-5
 
-For OpenMP Programs (Linux):
-
-g++ -fopenmp filename.cpp
-./a.out
-
-For CUDA Programs (Windows):
-
-nvcc <filename.cu> -o
-<filename.exe>
+For OpenMP Programs (Linux): <br/>
+> g++ -fopenmp filename.cpp <br/>
+> ./a.out
+  
+For CUDA Programs (Windows): <br/>
+> nvcc <filename.cu> -o <filename> <br/>
+> <filename.exe>
 
 Source: https://github.com/wizzard21/LP-5
