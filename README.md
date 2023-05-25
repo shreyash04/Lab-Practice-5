@@ -8,4 +8,4 @@ For CUDA Programs (Windows): <br/>
 > nvcc <filename.cu> -o <filename> <br/>
 > <filename.exe>
 
-Source: https://github.com/wizzard21/LP-5
+Credits: https://github.com/wizzard21/LP-5
